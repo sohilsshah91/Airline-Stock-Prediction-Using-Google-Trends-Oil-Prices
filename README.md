@@ -1,0 +1,2 @@
+# Airline-Stock-Prediction-Using-Google-Trends-Oil-Prices
+This project highlights a Spark application built on Scala. It utilizes Spark Core, Spark SQL and Spark ML (Machine Learning libraries) for predicting stock prices of specific airline companies. We have used the Google trending words (searched on internet and relevant to financial domain) and also macro-economic oil prices as alternate data to predict stock prices.
